@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.BlogCard{
+  margin:16px;
+  box-sizing: border-box;
+}
+
+  
